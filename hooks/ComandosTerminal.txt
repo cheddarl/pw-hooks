@@ -1,0 +1,2 @@
+npx create-react-app nomeProjeto   ->  Cria o projeto
+yarn add react-router-dom
